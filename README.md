@@ -1,7 +1,35 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+🍕 SliceSpot — React Pizza App
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+Welcome to SliceSpot! A pizza web application built using React.js.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+✨ Features
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+- 🍕 Explore the pizza menu
+- 🖼️ View delicious pizza images
+- ⚛️ Built with React.js
+- 📱 User-friendly interface
+
+🛠️ Technologies
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+
+🚀 Run Locally
+
+1. Clone this repository:
+   "git clone https://github.com/nishuraj8/SliceSpot.git"
+
+2. Navigate to the React project:
+   "cd SliceSpot/react-cart"
+
+3. Install dependencies:
+   "npm install"
+
+4. Start the app:
+   "npm start"
+
+👨‍💻 Developer
+
+GitHub: "nishuraj8" (https://github.com/nishuraj8)
